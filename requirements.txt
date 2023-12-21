@@ -49,9 +49,8 @@ sympy==1.12
 tokenizers==0.15.0
 torch==2.1.1
 tqdm==4.66.1
-transformers==4.35.2
+transformers==4.36.2
 typing_extensions==4.8.0
 urllib3==2.1.0
-# Editable install with no version control (virtual-raphael==0.1.0)
--e /Users/lesliec/Documents/[codebase]/Edo's stuff/from Karl/virtual_raphael/src
+-e git+ssh://git@github.com/leslieDLcy/VirtualRaphael.git@65ac16c6cb584dc482c8ddb984467ffa60f57b14#egg=virtual_raphael
 zipp==3.17.0
